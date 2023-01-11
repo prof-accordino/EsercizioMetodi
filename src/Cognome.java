@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // Chiamare la classe col proprio cognome
-public class Cognome
+public class MainClass
 {
 	static Scanner in = new Scanner(System.in);
 	
