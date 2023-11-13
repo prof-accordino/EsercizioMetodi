@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-// Rinominare MainClass col proprio cognome
 public class MainClass
 {
 	static Scanner in = new Scanner(System.in);
