@@ -25,6 +25,7 @@ public class MainClass
 					es4();
 				break;
 				case 5:
+					es5();
 				break;
 				default:
 					System.out.println("Scelta errata, riprova!");
